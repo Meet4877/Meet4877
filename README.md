@@ -1,19 +1,25 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+There!+%F0%9F%91%8B;This+is+Meet+Shingala....;A+passionate+iOS+Developer;Nice+to+meet+you!" />
+  </a>
+</h1>
 
-<!--
-**Meet4877/Meet4877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hi, I'm Meet Shingala, iOS Developer from India
+  <br>
+  <br>
+  🔬 I'm currently working as a iOS Developer at a startup
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning swiftUI.
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Meet4877/Meet4877/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: shingalameet4877@gmail.com">shingalameet4877@gmail.com</a>
+</p>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ```swift
 public struct AboutMe {
     let name = "Meet"
@@ -26,4 +32,24 @@ public struct AboutMe {
 }
 ```
 
-I like to solve problems using Swift as much as possible.
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+    <code><img title="Swift" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/swift.png"></code>
+    <code><img title="SwiftUI" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/swiftui.png"></code>
+    <code><img title="CoreData" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/coredata.png"></code>
+    <code><img title="Problem Solving" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/problemSolving.png"></code>
+    <code><img title="HTML5" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/HTML.png"></code>
+    <code><img title="CSS" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/css.png"></code>
+    <code><img title="Git" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/git.svg.png"></code>
+    <code><img title="XCode" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/xcode.png"></code>
+    <code><img title="JSON" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/json.svg"></code>
+    <code><img title="GitHub" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/GitHub.svg"></code>
+    <code><img title="MySQL" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/mysql.svg"></code>
+    <code><img title="PHP" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/PHP.png""></code>
+    <code><img title="Flutter" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/flutter.svg"></code>
+</p>
+<hr>
+
+
