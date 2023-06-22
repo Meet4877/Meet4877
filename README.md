@@ -34,6 +34,7 @@ public struct AboutMe {
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+
 <br>
 <p align="center">
     <code><img title="Swift" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/swift.png"></code>
@@ -50,6 +51,5 @@ public struct AboutMe {
     <code><img title="PHP" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/PHP.png""></code>
     <code><img title="Flutter" height="25" src="https://github.com/Meet4877/Meet4877/blob/main/Assets/flutter.svg"></code>
 </p>
-<hr>
 
 
