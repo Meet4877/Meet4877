@@ -19,7 +19,7 @@ public struct AboutMe {
     let name = "Meet"
     var pronouns = ["he","him"]
     
-    let profession = " iOS Engineer"
+    let profession = " iOS Developer"
     
     var preferredTechStack = ["Swift", "SwiftUI", "UIkit", "Core data"]
     var hasUsed = ["Flutter"]
