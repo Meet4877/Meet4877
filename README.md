@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```swift
+public struct AboutMe {
+    let name = "Meet"
+    var pronouns = ["he","him"]
+    
+    let profession = "iOS Engineer"
+    
+    var preferredTechStack = ["Swift", "SwiftUI", "UIkit", "Core data"]
+    var hasUsed = ["Flutter"]
+}
+```
+
+I like to solve problems using Swift as much as possible.
