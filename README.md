@@ -27,7 +27,7 @@ public struct AboutMe {
     
     let profession = " iOS Developer"
     
-    var preferredTechStack = ["Swift", "SwiftUI", RxSwift, "UIkit", "CoreData"]
+    var preferredTechStack = ["Swift", "SwiftUI", "RxSwift", "UIkit", "CoreData"]
     var hasUsed = ["Flutter"]
 }
 ```
