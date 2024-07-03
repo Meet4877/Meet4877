@@ -23,11 +23,11 @@
 ```swift
 public struct AboutMe {
     let name = "Meet"
-    var pronouns = ["he","him"]
+    let pronouns = ["he","him"]
     
     let profession = " iOS Developer"
     
-    var preferredTechStack = ["Swift", "SwiftUI", "UIkit", "Core data"]
+    var preferredTechStack = ["Swift", "SwiftUI", RxSwift, "UIkit", "CoreData"]
     var hasUsed = ["Flutter"]
 }
 ```
